@@ -78,7 +78,7 @@
 ![Dashboard](https://i.ibb.co/pjYR6qT7/dashboard.png)
 
 ### 📝 New Order  
-![New Order](https://i.ibb.co/ymJY8WTy/neworder.png)
+![New Order](https://ibb.co/ymJY8WTy)
 
 ### ⏳ Pending Orders  
 ![Pending Orders](https://i.ibb.co/g8hvY2X/pending.png)
