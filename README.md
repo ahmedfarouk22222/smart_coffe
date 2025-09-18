@@ -1,16 +1,49 @@
-# flutter_application_1
+<h1 align="center">☕ Smart Ahwa Manager</h1>
+<p align="center">
+  <b>A modern Flutter app for managing your Cairo café orders</b>  
+</p>
 
-A new Flutter project.
+<p align="center">
+  <img src="screenshots/dashboard.png" width="700" alt="Smart Ahwa Manager Dashboard"/>
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.24-blue?logo=flutter&logoColor=white" /></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.5-0175C2?logo=dart&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20iOS-green" />
+  <img src="https://img.shields.io/badge/License-MIT-purple" />
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Overview  
+**Smart Ahwa Manager** helps café owners streamline their workflow:  
+- Take customer orders quickly  
+- Track pending requests  
+- View daily sales insights  
+- Apply clean code with **OOP & SOLID** principles  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌟 Features  
+
+- 📝 **Add New Order** → customer name, drink type, special instructions  
+- 📊 **Dashboard** → total orders, pending orders, top-selling drink  
+- ✅ **Order Management** → mark orders as completed with one tap  
+- 🎨 **Polished UI** → modern Material design & responsive layout  
+- 🧑‍💻 **Clean Architecture** → demonstrates SRP, OCP & DIP  
+
+---
+
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="220" alt="Dashboard"/>
+  <img src="screenshots/new_order.png" width="220" alt="New Order"/>
+  <img src="screenshots/pending_orders.png" width="220" alt="Pending Orders"/>
+</p>
+
+---
+
+## 🏗️ Architecture  
+
