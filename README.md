@@ -38,9 +38,9 @@
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="220" alt="Dashboard"/>
-  <img src="screenshots/new_order.png" width="220" alt="New Order"/>
-  <img src="screenshots/pending_orders.png" width="220" alt="Pending Orders"/>
+  <img src="https://ibb.co/pjYR6qT7" width="220" alt="Dashboard"/>
+  <img src="https://ibb.co/ymJY8WTy" width="220" alt="New Order"/>
+  <img src="https://ibb.co/g8hvY2X" width="220" alt="Pending Orders"/>
 </p>
 
 ---
